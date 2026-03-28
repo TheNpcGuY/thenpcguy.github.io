@@ -1,0 +1,16 @@
+[
+  { "domain": "luckfusion.info", "enabled": true },
+  { "domain": "scamnuker.npcguy.workers.dev", "enabled": true },
+  { "domain": "bit.ly", "enabled": true },
+  { "domain": "grabify.link", "enabled": true },
+  { "domain": "t.me", "enabled": true },
+  { "domain": "t.co", "enabled": true },
+  { "domain": "tinyurl.com", "enabled": true },
+  { "domain": "is.gd", "enabled": true },
+  { "domain": "buff.ly", "enabled": true },
+  { "domain": "vercel.app", "enabled": true },
+  { "domain": "firebaseapp.com", "enabled": true },
+  { "domain": "000webhostapp.com", "enabled": true },
+  { "domain": "wa.me", "enabled": true },
+  { "domain": "discord.gg", "enabled": false }
+]

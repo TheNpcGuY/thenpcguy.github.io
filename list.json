@@ -1,6 +1,7 @@
 [
   { "domain": "luckfusion.info", "enabled": true },
   { "domain": "scamnuker.npcguy.workers.dev", "enabled": true },
+  { "domain": "randomsite.npcguy.workers.dev", "enabled": true },
   { "domain": "bit.ly", "enabled": true },
   { "domain": "grabify.link", "enabled": true },
   { "domain": "t.me", "enabled": true },

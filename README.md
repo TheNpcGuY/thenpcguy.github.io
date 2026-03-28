@@ -6,7 +6,7 @@
 
 This thing is made for a JSON list located at:
 
-https://thenpcguy.github.io/scamnuker/list.json
+https://thenpcguy.github.io/list.json
 
 
 
